@@ -1,0 +1,197 @@
+header{
+	margin-top: 54px;
+	margin-left: 52px;
+}
+.header-image{
+	width: 223px;
+	height: 58px;
+	vertical-align: middle;
+	margin-right: 50px;
+	margin-top: 60px;
+}
+a{
+	color: #8D81FF;
+	font-weight: 700;
+	font-size: 26px;
+}
+.active{
+	color: #4E6FAE;
+}
+nav{
+	display: inline-block;
+}
+li{
+	display: inline-block;
+	margin-left: 66px;
+}
+section{
+	margin-left: 52px;
+}
+.image1{
+	width: 447px;
+	height: 240px;
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: 14px;
+}
+p{
+	display: block;
+	Font-family: FiraGO;
+	font-weight: 400;
+	Font-size: 16px;
+	Line-height: 100%;
+	text-align: Left;
+	color: #4E6FAE;
+	margin-bottom: 15px;
+}
+.news{
+	width: 780px;
+	vertical-align: top;
+	display: inline-block; 
+	margin-left: 66px;
+	margin-top: 14px;
+}
+.news1{
+	width: 1021px;
+	margin-top: 32px;
+}
+.date{
+	display: block;
+	background: #5012D5;
+	width: 50px;
+	height: 50px;
+	color: #84FF81;
+	font-size: 24px;
+	font-weight: 400;
+	text-align: center;
+	padding-top: 8px;
+	margin-top: 50px;
+}
+h3{
+	Font-family: FiraGO;
+	font-weight: 400;
+	Font-size: 24px;
+	Line-height: 100%;
+	text-align: Left;
+	color: #8D81FF;
+	margin-top: 15px;
+}
+h4{
+	font-family: FiraGO;
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 100%;
+	text-align: Left;
+	color: #4E6FAE;
+	margin-top: 8px;
+	margin-bottom: 13px;
+}
+footer{
+	margin-left: 52px;
+}
+footer img{
+	margin-right: 40px;
+	margin-top: 145px;
+}
+.image2{
+	margin: 97px 140px 120px;
+}
+.newsPage{
+	Font-family: FiraGO;
+	font-weight: 700;
+	Font-size: 26px;
+	Line-height: 100%;
+	text-align: Left;
+	color: #4E6FAE;
+	display: inline-block;
+	padding-right: 17px;
+	border-right-width: 2px;
+	border-right-style: solid;
+	margin-left: 140px;
+}
+.newsPage2{
+	Font-family: FiraGO;
+	font-weight: 400;
+	Font-size: 26px;
+	Line-height: 100%;
+	text-align: Left;
+	color: #4E6FAE;
+	display: inline-block;
+	margin-left: 17px;
+}
+.window{
+	width: 500px;
+	height: 192px;
+	background: #E7E7E7;
+	display: inline-block;
+	vertical-align: top;
+	padding-left: 23px;
+	padding-top: 20px;
+	margin-top: 26px;
+}
+.a1{
+	margin-left: 140px;
+}
+.a2{
+	margin-left: 52px;
+}
+.window h4{
+	Font-family: Helvetica Neue LT GEO;
+	Font-size: 20px;
+	Line-height: 100%;
+	text-align: Left;
+	font-weight: 400;
+	color: #3F4145;
+	margin-bottom: 20px;
+}
+.window img{
+	width: 77px;
+	height: 77px;
+	display: inline-block;
+}
+.window p{
+	Font-family: Helvetica Neue LT GEO;
+	font-weight: 400;
+	Font-size: 16px;
+	Line-height: 100%;
+	text-align: Left;
+	vertical-align: top;
+	display: inline-block;
+	color: #7E8898;
+	width: 335px;
+	margin-left: 37px;
+}
+.page3{
+	margin-top: 43px;
+	margin-left: 0px;
+	width: 1660px;
+	height: 735px;
+	background: #E7E7E7;
+	padding-top: 93px;
+	padding-left: 142px;
+}
+.contactInfo{
+	display: inline-block;
+}
+.contactInfo h2{
+	color: #4E6FAE;
+	font-family: Helvetica Neue;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.contactInfo p{
+	color: #7E8898;
+	font-family: Helvetica Neue LT GEO;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	margin-top: 25px;
+}
+.page3 img{
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 20px;
+}
